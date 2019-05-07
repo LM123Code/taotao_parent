@@ -1,0 +1,61 @@
+2019-04-29 08:59:08,706 0      [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization started
+2019-04-29 08:59:08,723 17     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 08:59:08 CST 2019]; root of context hierarchy
+2019-04-29 08:59:08,757 51     [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2019-04-29 08:59:09,119 413    [ost-startStop-1] INFO  bo.common.logger.LoggerFactory  - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2019-04-29 08:59:09,236 530    [ost-startStop-1] INFO  tySourcesPlaceholderConfigurer  - Loading properties file from file [D:\IDEAworkspace\taotao_parent\taotao_protal_web\target\classes\conf\resource.properties]
+2019-04-29 08:59:09,240 534    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-29 08:59:09,379 673    [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/index]}" onto public java.lang.String com.taotao.protal.controller.PageContraller.showIndex()
+2019-04-29 08:59:09,528 822    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 08:59:08 CST 2019]; root of context hierarchy
+2019-04-29 08:59:09,571 865    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 08:59:08 CST 2019]; root of context hierarchy
+2019-04-29 08:59:09,681 975    [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization completed in 974 ms
+2019-04-29 09:04:06,625 0      [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization started
+2019-04-29 09:04:06,647 22     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:04:06 CST 2019]; root of context hierarchy
+2019-04-29 09:04:06,686 61     [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2019-04-29 09:04:06,921 296    [ost-startStop-1] INFO  bo.common.logger.LoggerFactory  - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2019-04-29 09:04:07,038 413    [ost-startStop-1] INFO  tySourcesPlaceholderConfigurer  - Loading properties file from file [D:\IDEAworkspace\taotao_parent\taotao_protal_web\target\classes\conf\resource.properties]
+2019-04-29 09:04:07,043 418    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-29 09:04:07,193 568    [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/index]}" onto public java.lang.String com.taotao.protal.controller.PageContraller.showIndex()
+2019-04-29 09:04:07,307 682    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:04:06 CST 2019]; root of context hierarchy
+2019-04-29 09:04:07,461 836    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:04:06 CST 2019]; root of context hierarchy
+2019-04-29 09:04:07,565 940    [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization completed in 939 ms
+2019-04-29 09:05:04,517 0      [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization started
+2019-04-29 09:05:04,537 20     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:05:04 CST 2019]; root of context hierarchy
+2019-04-29 09:05:04,569 52     [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2019-04-29 09:05:04,781 264    [ost-startStop-1] INFO  bo.common.logger.LoggerFactory  - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2019-04-29 09:05:04,921 404    [ost-startStop-1] INFO  tySourcesPlaceholderConfigurer  - Loading properties file from file [D:\IDEAworkspace\taotao_parent\taotao_protal_web\target\classes\conf\resource.properties]
+2019-04-29 09:05:04,928 411    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-29 09:05:05,162 645    [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/index]}" onto public java.lang.String com.taotao.protal.controller.PageContraller.showIndex()
+2019-04-29 09:05:05,279 762    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:05:04 CST 2019]; root of context hierarchy
+2019-04-29 09:05:05,417 900    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:05:04 CST 2019]; root of context hierarchy
+2019-04-29 09:05:05,513 996    [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization completed in 995 ms
+2019-04-29 09:07:24,442 0      [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization started
+2019-04-29 09:07:24,463 21     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:07:24 CST 2019]; root of context hierarchy
+2019-04-29 09:07:24,500 58     [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2019-04-29 09:07:24,726 284    [ost-startStop-1] INFO  bo.common.logger.LoggerFactory  - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2019-04-29 09:07:24,829 387    [ost-startStop-1] INFO  tySourcesPlaceholderConfigurer  - Loading properties file from file [D:\IDEAworkspace\taotao_parent\taotao_protal_web\target\classes\conf\resource.properties]
+2019-04-29 09:07:24,840 398    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-29 09:07:24,996 554    [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/index]}" onto public java.lang.String com.taotao.protal.controller.PageContraller.showIndex()
+2019-04-29 09:07:25,233 791    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:07:24 CST 2019]; root of context hierarchy
+2019-04-29 09:07:25,279 837    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:07:24 CST 2019]; root of context hierarchy
+2019-04-29 09:07:25,379 937    [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization completed in 936 ms
+2019-04-29 09:20:41,251 0      [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization started
+2019-04-29 09:20:41,270 19     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:20:41 CST 2019]; root of context hierarchy
+2019-04-29 09:20:41,304 53     [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2019-04-29 09:20:41,538 287    [ost-startStop-1] INFO  bo.common.logger.LoggerFactory  - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2019-04-29 09:20:41,638 387    [ost-startStop-1] INFO  tySourcesPlaceholderConfigurer  - Loading properties file from file [D:\IDEAworkspace\taotao_parent\taotao_protal_web\target\classes\conf\resource.properties]
+2019-04-29 09:20:41,643 392    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-29 09:20:41,780 529    [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/index]}" onto public java.lang.String com.taotao.protal.controller.PageContraller.showIndex()
+2019-04-29 09:20:42,007 756    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:20:41 CST 2019]; root of context hierarchy
+2019-04-29 09:20:42,043 792    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Mon Apr 29 09:20:41 CST 2019]; root of context hierarchy
+2019-04-29 09:20:42,136 885    [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization completed in 883 ms
+2019-05-07 08:06:46,061 0      [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization started
+2019-05-07 08:06:46,081 20     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Tue May 07 08:06:46 CST 2019]; root of context hierarchy
+2019-05-07 08:06:46,101 40     [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2019-05-07 08:06:46,333 272    [ost-startStop-1] INFO  bo.common.logger.LoggerFactory  - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2019-05-07 08:06:46,424 363    [ost-startStop-1] INFO  tySourcesPlaceholderConfigurer  - Loading properties file from file [D:\IDEAworkspace\taotao_parent\taotao_protal_web\target\classes\conf\resource.properties]
+2019-05-07 08:06:46,434 373    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-05-07 08:06:46,563 502    [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/index]}" onto public java.lang.String com.taotao.protal.controller.PageContraller.showIndex()
+2019-05-07 08:06:46,767 706    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Tue May 07 08:06:46 CST 2019]; root of context hierarchy
+2019-05-07 08:06:46,807 746    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Tue May 07 08:06:46 CST 2019]; root of context hierarchy
+2019-05-07 08:06:46,895 834    [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization completed in 826 ms
+2019-05-07 08:10:44,738 238677 [bio-8082-exec-8] WARN  ework.web.servlet.PageNotFound  - No mapping found for HTTP request with URI [/products/161.html] in DispatcherServlet with name 'taotao_protal_web'
