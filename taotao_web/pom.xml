@@ -111,6 +111,11 @@
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.taotao</groupId>
+            <artifactId>taotao_content_interface</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
     <!-- 配置tomcat插件 -->
     <build>

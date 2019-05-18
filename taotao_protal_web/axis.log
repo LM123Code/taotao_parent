@@ -59,3 +59,13 @@
 2019-05-07 08:06:46,807 746    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Tue May 07 08:06:46 CST 2019]; root of context hierarchy
 2019-05-07 08:06:46,895 834    [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization completed in 826 ms
 2019-05-07 08:10:44,738 238677 [bio-8082-exec-8] WARN  ework.web.servlet.PageNotFound  - No mapping found for HTTP request with URI [/products/161.html] in DispatcherServlet with name 'taotao_protal_web'
+2019-05-08 15:30:23,142 0      [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization started
+2019-05-08 15:30:23,160 18     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Wed May 08 15:30:23 CST 2019]; root of context hierarchy
+2019-05-08 15:30:23,204 62     [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2019-05-08 15:30:23,434 292    [ost-startStop-1] INFO  bo.common.logger.LoggerFactory  - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2019-05-08 15:30:23,540 398    [ost-startStop-1] INFO  tySourcesPlaceholderConfigurer  - Loading properties file from file [D:\IDEAworkspace\taotao_parent\taotao_protal_web\target\classes\conf\resource.properties]
+2019-05-08 15:30:23,544 402    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-05-08 15:30:23,685 543    [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/index]}" onto public java.lang.String com.taotao.protal.controller.PageContraller.showIndex()
+2019-05-08 15:30:23,927 785    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Wed May 08 15:30:23 CST 2019]; root of context hierarchy
+2019-05-08 15:30:23,960 818    [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao_protal_web-servlet': startup date [Wed May 08 15:30:23 CST 2019]; root of context hierarchy
+2019-05-08 15:30:24,039 897    [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'taotao_protal_web': initialization completed in 895 ms
